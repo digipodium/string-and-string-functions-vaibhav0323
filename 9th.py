@@ -1,0 +1,1 @@
+print ('''The 2021 Nobel Prize in Chemistry was on Wednesday awarded to German scientist Benjamin List and Scotland-born scientist David WC MacMillan “for the development of asymmetric organocatalysis.” "The 2021 chemistry laureates Benjamin List and David MacMillan have developed a new and ingenious tool''')
